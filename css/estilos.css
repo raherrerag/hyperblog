@@ -1,7 +1,14 @@
 body
 {
-    color: deeppink;
+    color: darkseagreen;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: chocolate ;
+}
 
+p
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+    background-color: indigo;
 }
